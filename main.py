@@ -9,13 +9,12 @@ from problem_set_2 import *
 from problem_set_3 import *
 
 def main():
-  """
-  Place code within this main function to call whichever functions you want 
-  to try out from the other files where you have written code.
-  """
+    """
+    Place code within this main function to call whichever functions you want 
+    to try out from the other files where you have written code.
+    """
 
-  # for example... the following line will call the bark() function in problem_set_1 whenever this main.py file is run.
-  bark()
-
+    # for example... the following line will call the bark() function in problem_set_1 whenever this main.py file is run.
+    play_game()
 # call the main function
 main()
