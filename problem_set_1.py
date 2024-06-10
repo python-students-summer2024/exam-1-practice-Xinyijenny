@@ -19,7 +19,6 @@ def bark():
     age = input("Enter your dog's age here: ").strip()
     breed = input("Enter your dog's breed here: ").strip().capitalize()
 
-    #print( name + ', the ' + age + ' year old ' + breed + ', says, "Woof!"')
     print(name + ', the ' + age + ' year old ' + breed + ', says, "Woof!"')
   
     
